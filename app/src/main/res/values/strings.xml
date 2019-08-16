@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Ngô Khắc Ngọc</string>
+    <string name="nav_header_subtitle">ngockhac01012000@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_khoanthu">Khoản Thu</string>
+    <string name="menu_khoanchi">Khoản Chi</string>
+    <string name="menu_thongke">Thống Kê</string>
+    <string name="menu_gioithieu">Giới Thiệu</string>
+    <string name="menu_thoat">Thoát</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
